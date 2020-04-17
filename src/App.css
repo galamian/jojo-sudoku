@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 3vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +35,99 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.box {
+  float: left;
+  border: 2px solid #000000;
+  padding: 0;
+}
+
+
+.kbd-navigation .square:focus {
+  background: #ddd;
+}
+
+.sudoku {
+  display: flex;
+  flex-direction: row;
+}
+
+.sudoku-info {
+  margin-left: 20px;
+}
+
+.button {
+  background-color: #282c34;
+  border: 2px solid #282c34;
+  border-radius: 8px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: white;
+  color: #282c34;
+  border: 2px solid #282c34;
+}
+
+
+.loading-label {
+  background-color: red;
+  border: 2px solid #282c34;
+  border-radius: 8px;
+  color:#282c34 ;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
 }
