@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/jojo-sudoku/static/css/main.e6de9167.chunk.css",
-    "main.js": "/jojo-sudoku/static/js/main.60cbf77b.chunk.js",
-    "main.js.map": "/jojo-sudoku/static/js/main.60cbf77b.chunk.js.map",
+    "main.js": "/jojo-sudoku/static/js/main.5e3b6609.chunk.js",
+    "main.js.map": "/jojo-sudoku/static/js/main.5e3b6609.chunk.js.map",
     "runtime-main.js": "/jojo-sudoku/static/js/runtime-main.10a1a12c.js",
     "runtime-main.js.map": "/jojo-sudoku/static/js/runtime-main.10a1a12c.js.map",
-    "static/js/2.d53cd50b.chunk.js": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js",
-    "static/js/2.d53cd50b.chunk.js.map": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js.map",
+    "static/js/2.348e5854.chunk.js": "/jojo-sudoku/static/js/2.348e5854.chunk.js",
+    "static/js/2.348e5854.chunk.js.map": "/jojo-sudoku/static/js/2.348e5854.chunk.js.map",
     "index.html": "/jojo-sudoku/index.html",
-    "precache-manifest.92484c4a210eccea6068df57021d18f1.js": "/jojo-sudoku/precache-manifest.92484c4a210eccea6068df57021d18f1.js",
+    "precache-manifest.5c907bf273afede7672a8cbcb5b33cbc.js": "/jojo-sudoku/precache-manifest.5c907bf273afede7672a8cbcb5b33cbc.js",
     "service-worker.js": "/jojo-sudoku/service-worker.js",
     "static/css/main.e6de9167.chunk.css.map": "/jojo-sudoku/static/css/main.e6de9167.chunk.css.map",
-    "static/js/2.d53cd50b.chunk.js.LICENSE.txt": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/jojo-sudoku/static/media/logo.5d5d9eef.svg"
+    "static/js/2.348e5854.chunk.js.LICENSE.txt": "/jojo-sudoku/static/js/2.348e5854.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.10a1a12c.js",
-    "static/js/2.d53cd50b.chunk.js",
+    "static/js/2.348e5854.chunk.js",
     "static/css/main.e6de9167.chunk.css",
-    "static/js/main.60cbf77b.chunk.js"
+    "static/js/main.5e3b6609.chunk.js"
   ]
 }
