@@ -9,7 +9,12 @@ export default class extends React.Component {
           
           <div className="sudoku-board">
             <Board/>
-            <div className="get-code"><a target="_blank" rel="noopener noreferrer" href="https://github.com/galamian/jojo-sudoku">Get the code</a></div>
+            <div className="get-code">
+              <a target="_blank" rel="noopener noreferrer" 
+                href="https://github.com/galamian/jojo-sudoku">
+                  Get the code
+              </a>
+            </div>
             
           </div>
           
