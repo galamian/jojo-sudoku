@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jojo-sudoku/static/css/main.8082cf8e.chunk.css",
+    "main.css": "/jojo-sudoku/static/css/main.e6de9167.chunk.css",
     "main.js": "/jojo-sudoku/static/js/main.60cbf77b.chunk.js",
     "main.js.map": "/jojo-sudoku/static/js/main.60cbf77b.chunk.js.map",
     "runtime-main.js": "/jojo-sudoku/static/js/runtime-main.10a1a12c.js",
@@ -8,16 +8,16 @@
     "static/js/2.d53cd50b.chunk.js": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js",
     "static/js/2.d53cd50b.chunk.js.map": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js.map",
     "index.html": "/jojo-sudoku/index.html",
-    "precache-manifest.23bb180ff1cda8eeff9894f114461cb7.js": "/jojo-sudoku/precache-manifest.23bb180ff1cda8eeff9894f114461cb7.js",
+    "precache-manifest.92484c4a210eccea6068df57021d18f1.js": "/jojo-sudoku/precache-manifest.92484c4a210eccea6068df57021d18f1.js",
     "service-worker.js": "/jojo-sudoku/service-worker.js",
-    "static/css/main.8082cf8e.chunk.css.map": "/jojo-sudoku/static/css/main.8082cf8e.chunk.css.map",
+    "static/css/main.e6de9167.chunk.css.map": "/jojo-sudoku/static/css/main.e6de9167.chunk.css.map",
     "static/js/2.d53cd50b.chunk.js.LICENSE.txt": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/jojo-sudoku/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.10a1a12c.js",
     "static/js/2.d53cd50b.chunk.js",
-    "static/css/main.8082cf8e.chunk.css",
+    "static/css/main.e6de9167.chunk.css",
     "static/js/main.60cbf77b.chunk.js"
   ]
 }

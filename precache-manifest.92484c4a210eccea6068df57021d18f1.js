@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "320ccf47fb9484f6aa3d9a60a6a3ca7b",
+    "revision": "a70ebe3bf8ca97f3074c92de0036a3f6",
     "url": "/jojo-sudoku/index.html"
   },
   {
-    "revision": "0d8b937ffbc11e6ba20b",
-    "url": "/jojo-sudoku/static/css/main.8082cf8e.chunk.css"
+    "revision": "8c2255d8eecde89ace16",
+    "url": "/jojo-sudoku/static/css/main.e6de9167.chunk.css"
   },
   {
     "revision": "1f78c3f065ad8f7e8bf6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d8b937ffbc11e6ba20b",
+    "revision": "8c2255d8eecde89ace16",
     "url": "/jojo-sudoku/static/js/main.60cbf77b.chunk.js"
   },
   {
