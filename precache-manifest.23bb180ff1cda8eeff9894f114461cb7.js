@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfa83b7ca1607363fddc96700806c906",
+    "revision": "320ccf47fb9484f6aa3d9a60a6a3ca7b",
     "url": "/jojo-sudoku/index.html"
   },
   {
-    "revision": "ebdde0e7db80c4253087",
-    "url": "/jojo-sudoku/static/css/main.d1b05096.chunk.css"
+    "revision": "0d8b937ffbc11e6ba20b",
+    "url": "/jojo-sudoku/static/css/main.8082cf8e.chunk.css"
   },
   {
-    "revision": "f040362ccc9a90bfaf79",
-    "url": "/jojo-sudoku/static/js/2.5b4ac46b.chunk.js"
+    "revision": "1f78c3f065ad8f7e8bf6",
+    "url": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/jojo-sudoku/static/js/2.5b4ac46b.chunk.js.LICENSE.txt"
+    "url": "/jojo-sudoku/static/js/2.d53cd50b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebdde0e7db80c4253087",
-    "url": "/jojo-sudoku/static/js/main.7ea3c4b6.chunk.js"
+    "revision": "0d8b937ffbc11e6ba20b",
+    "url": "/jojo-sudoku/static/js/main.60cbf77b.chunk.js"
   },
   {
     "revision": "1c748091ca46736183e7",
