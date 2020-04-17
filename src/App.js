@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Sudoku Solver</h1>
+        <h1>Jojo's Sudoku Solver</h1>
       </header>
       <body>
         <Sudoku/>

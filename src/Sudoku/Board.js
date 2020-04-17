@@ -147,7 +147,7 @@ class Board extends React.Component {
                 }
               </div>
               <div className="reset">
-              <button className="button" onClick={() => this.clear()}>CLEAR</button>
+                <button className="button" onClick={() => this.clear()}>CLEAR</button>
               </div>
           </div>
           
